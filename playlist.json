@@ -1,14 +1,86 @@
 [
   {
-    "name": "DD National",
-    "url": "https://sample-stream-url/ddnational.m3u8"
+    "name": "Sony Marathi HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png",
+    "channel_number": "5",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8"
   },
   {
-    "name": "Aaj Tak",
-    "url": "https://sample-stream-url/aajtak.m3u8"
+    "name": "Sony Max HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
+    "channel_number": "6",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8"
   },
   {
-    "name": "India TV",
-    "url": "https://sample-stream-url/indiatv.m3u8"
+    "name": "Sony Max2 HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png",
+    "channel_number": "7",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8"
+  },
+  {
+    "name": "Sony pal HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png",
+    "channel_number": "8",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8"
+  },
+  {
+    "name": "Sony pix HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png",
+    "channel_number": "9",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8"
+  },
+  {
+    "name": "Sony SAB TV HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png",
+    "channel_number": "10",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8"
+  },
+  {
+    "name": "Sony Max HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
+    "channel_number": "11",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8"
+  },
+  {
+    "name": "Sony sports ten 5",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png",
+    "channel_number": "12",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8"
+  },
+  {
+    "name": "Sony sports ten 5 HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png",
+    "channel_number": "13",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
+  },
+  {
+    "name": "Sony sports ten 1 HD",
+    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png",
+    "channel_number": "14",
+    "group": "Sony LIV ",
+    "url": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
+  },
+  {
+    "name": "Ten sports HD",
+    "logo": "",
+    "channel_number": "66",
+    "group": "Pakistan cricket ",
+    "url": "http://appleiptv.com:80/luanne/luanne/31166"
+  },
+  {
+    "name": "Zee Bangla HD",
+    "logo": "",
+    "channel_number": "246",
+    "group": "Zee5 2",
+    "url": "http://appleiptv.com:80/luanne/luanne/43234"
   }
 ]
