@@ -1,650 +1,70 @@
 [
   {
     "name": "Sony Marathi HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png",
-    "channel_number": "5",
-    "group": "Sony LIV ",
     "url": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8"
   },
   {
     "name": "Sony Max HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
-    "channel_number": "6",
-    "group": "Sony LIV ",
     "url": "https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8"
   },
   {
     "name": "Sony Max2 HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png",
-    "channel_number": "7",
-    "group": "Sony LIV ",
     "url": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8"
   },
   {
-    "name": "Sony pal HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png",
-    "channel_number": "8",
-    "group": "Sony LIV ",
+    "name": "Sony Pal HD",
     "url": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8"
   },
   {
-    "name": "Sony pix HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png",
-    "channel_number": "9",
-    "group": "Sony LIV ",
+    "name": "Sony Pix HD",
     "url": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8"
   },
   {
     "name": "Sony SAB TV HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png",
-    "channel_number": "10",
-    "group": "Sony LIV ",
     "url": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8"
   },
   {
-    "name": "Sony Max HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png",
-    "channel_number": "11",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8"
-  },
-  {
-    "name": "Sony sports ten 5",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png",
-    "channel_number": "12",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8"
-  },
-  {
-    "name": "Sony sports ten 5 HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png",
-    "channel_number": "13",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
-  },
-  {
-    "name": "Sony sports ten 1 HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png",
-    "channel_number": "14",
-    "group": "Sony LIV ",
+    "name": "Sony Sports Ten 1 HD",
     "url": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8"
   },
   {
-    "name": "Sony sports ten 1",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png",
-    "channel_number": "15",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8"
-  },
-  {
-    "name": "Sony sports ten 2 HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png",
-    "channel_number": "16",
-    "group": "Sony LIV ",
+    "name": "Sony Sports Ten 2 HD",
     "url": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8"
   },
   {
-    "name": "Sony sports ten 2",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png",
-    "channel_number": "17",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8"
-  },
-  {
-    "name": "Sony sports ten 3 HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png",
-    "channel_number": "18",
-    "group": "Sony LIV ",
+    "name": "Sony Sports Ten 3 HD",
     "url": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8"
   },
   {
-    "name": "Sony sports ten 3",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png",
-    "channel_number": "19",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8"
-  },
-  {
-    "name": "Sony sports ten 4 HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png",
-    "channel_number": "20",
-    "group": "Sony LIV ",
+    "name": "Sony Sports Ten 4 HD",
     "url": "https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8"
   },
   {
-    "name": "Sony BBC earth HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png",
-    "channel_number": "21",
-    "group": "Sony LIV ",
+    "name": "Sony Sports Ten 5 HD",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8"
+  },
+  {
+    "name": "Sony BBC Earth HD",
     "url": "https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8"
   },
   {
-    "name": "Sony sports ten 4",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png",
-    "channel_number": "21",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8"
+    "name": "SET HD",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/BbgM7yXXSICZ_S5GFDarRg/master.m3u8"
   },
   {
-    "name": "Sony WAH HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png",
-    "channel_number": "22",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8"
+    "name": "Sony Wah",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/Tu3Rcs0vR6y4FVuIpn5W4g/master.m3u8"
   },
   {
-    "name": "Ten sports HD",
-    "logo": "",
-    "channel_number": "66",
-    "group": "Pakistan cricket ",
-    "url": "http://appleiptv.com:80/luanne/luanne/31166"
+    "name": "Sony YAY!",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/YjN1rUkAQeafh_wiFH1vAw/master.m3u8"
   },
   {
-    "name": "Zee Bangla HD",
-    "logo": "",
-    "channel_number": "246",
-    "group": "Zee5 2",
-    "url": "http://appleiptv.com:80/luanne/luanne/43234"
+    "name": "&TV HD",
+    "url": "https://dai.google.com/ssai/event/IbvJcmfZRxCqS6LyR3GxTg/master.m3u8"
   },
   {
-    "name": "Sky sports cricket HD",
-    "logo": "",
-    "channel_number": "566",
-    "group": "England sports",
-    "url": "http://magicoiptv.org:8080/amina2023/trdamina/122171"
-  },
-  {
-    "name": "Big magic HD",
-    "logo": "",
-    "channel_number": "571",
-    "group": "DD free dish",
-    "url": "http://magicoiptv.org:8080/festa12/ulrich22/118696"
-  },
-  {
-    "name": "Sony sports ten 5 HD",
-    "logo": "",
-    "channel_number": "663",
-    "group": "SONY SPORTS",
-    "url": "http://magicoiptv.org:8080/amina2023/trdamina/118584"
-  },
-  {
-    "name": "Sony sports ten 5 HD",
-    "logo": "",
-    "channel_number": "676",
-    "group": "Sony LIV 4",
-    "url": "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8"
-  },
-  {
-    "name": "Willow cricket HD",
-    "logo": "",
-    "channel_number": "678",
-    "group": "Indian premier league",
-    "url": "http://appleiptv.com:80/luanne/luanne/30321"
-  },
-  {
-    "name": "National geographic wild HD",
-    "logo": "",
-    "channel_number": "792",
-    "group": "Indian lifestyle",
-    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"
-  },
-  {
-    "name": "Zee Bangla HD",
-    "logo": "",
-    "channel_number": "983",
-    "group": "Bangla entertainment ",
-    "url": "http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6636/index.m3u8"
-  },
-  {
-    "name": "Fox cricket HD",
-    "logo": "",
-    "channel_number": "2474",
-    "group": "IPL",
-    "url": "http://394685157239416665.onames.xyz:80/play/ja1031098/9774944498/416665.m3u8"
-  },
-  {
-    "name": "PTV sports HD",
-    "logo": "",
-    "channel_number": "5632",
-    "group": "Indian premier league",
-    "url": "http://txm1.flysat.live:2089/152099290352684/152082825718580/201863"
-  },
-  {
-    "name": "Zee Thirai",
-    "logo": "",
-    "channel_number": "5777",
-    "group": "Zee5",
-    "url": "http://appleiptv.com:80/luanne/luanne/146768"
-  },
-  {
-    "name": "Sony sports ten 1 SD",
-    "logo": "",
-    "channel_number": "6532",
-    "group": "SONY SPORTS",
-    "url": "http://appleiptv.com:80/luanne/luanne/29211"
-  },
-  {
-    "name": "Sony sports ten 5 HD",
-    "logo": "",
-    "channel_number": "6533",
-    "group": "Indian sports",
-    "url": "http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58207"
-  },
-  {
-    "name": "A sports HD",
-    "logo": "",
-    "channel_number": "6653",
-    "group": "Pakistan cricket ",
-    "url": "http://sonyiptv.net:8080/6103/6103/89588"
-  },
-  {
-    "name": "Sky sports cricket HD",
-    "logo": "",
-    "channel_number": "6722",
-    "group": "Indian premier league",
-    "url": "http://magicoiptv.org:8080/amina2023/trdamina/122133"
-  },
-  {
-    "name": "A sports pk HD",
-    "logo": "https://img-cdn.curl.pk/channels_icon/81217520581.png",
-    "channel_number": "6743",
-    "group": "Pakistan cricket ",
-    "url": "http://sonyiptv.net:8080/6103/6103/6267"
-  },
-  {
-    "name": "Sony sports ten 2 SD",
-    "logo": "",
-    "channel_number": "6893",
-    "group": "SONY SPORTS",
-    "url": "http://appleiptv.com:80/luanne/luanne/29298"
-  },
-  {
-    "name": "Sony sports ten 3 SD",
-    "logo": "",
-    "channel_number": "6997",
-    "group": "SONY SPORTS",
-    "url": "http://appleiptv.com:80/luanne/luanne/29299"
-  },
-  {
-    "name": "Sony sports ten 5 HD",
-    "logo": "",
-    "channel_number": "7543",
-    "group": "Indian sports",
-    "url": "http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/58207"
-  },
-  {
-    "name": "Sony sports ten 2 HD",
-    "logo": "",
-    "channel_number": "7742",
-    "group": "SONY SPORTS",
-    "url": "http://appleiptv.com:80/luanne/luanne/31163"
-  },
-  {
-    "name": "Sony sports ten 3 HD",
-    "logo": "",
-    "channel_number": "7743",
-    "group": "SONY SPORTS",
-    "url": "http://appleiptv.com:80/luanne/luanne/31165"
-  },
-  {
-    "name": "BT sports 3 HD",
-    "logo": "",
-    "channel_number": "7842",
-    "group": "BT SPORTS",
-    "url": "http://iptvtree.net:8080/Jonsno/NKr806GHd4YZN3Cn/271"
-  },
-  {
-    "name": "Super cricket HD",
-    "logo": "",
-    "channel_number": "8288",
-    "group": "Cricket",
-    "url": "http://sonyiptv.net:8080/6103/6103/89586"
-  },
-  {
-    "name": "T sports BD HD",
-    "logo": "",
-    "channel_number": "8633",
-    "group": "BD sports ",
-    "url": "http://sonyiptv.net:8080/6103/6103/89596"
-  },
-  {
-    "name": "STAR PLUS HD",
-    "logo": "",
-    "channel_number": "8732",
-    "group": "India 2",
-    "url": "http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347"
-  },
-  {
-    "name": "Star sports 3 HD",
-    "logo": "",
-    "channel_number": "8753",
-    "group": "IPL 2",
-    "url": "http://txm1.flysat.live:2089/152099290352684/152082825718580/203429"
-  },
-  {
-    "name": "Zee Bangla HD",
-    "logo": "",
-    "channel_number": "22111",
-    "group": "Bangla entertainment ",
-    "url": "http://magicoiptv.org:8080/festa12/ulrich22/118510"
-  },
-  {
-    "name": "RTA sports",
-    "logo": "",
-    "channel_number": "22232",
-    "group": "England sports",
-    "url": "http://txm1.flysat.live:2089/152099290352684/152082825718580/200872"
-  },
-  {
-    "name": "Sony BBC earth HD",
-    "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
-    "channel_number": "45533",
-    "group": "Sony LIV 2",
-    "url": "https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8"
-  },
-  {
-    "name": "Sony SAB HD",
-    "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
-    "channel_number": "45543",
-    "group": "Sony LIV 2",
-    "url": "https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8"
-  },
-  {
-    "name": "& TV HD",
-    "logo": "",
-    "channel_number": "46422",
-    "group": "Zee5",
-    "url": "http://appleiptv.com:80/luanne/luanne/42881"
-  },
-  {
-    "name": "Sony sports ten 4 HD",
-    "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
-    "channel_number": "46433",
-    "group": "Sony LIV 2",
-    "url": "https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8"
-  },
-  {
-    "name": "Discovery kids",
-    "logo": "",
-    "channel_number": "46444",
-    "group": "Kids",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8"
-  },
-  {
-    "name": "Discovery HD",
-    "logo": "",
-    "channel_number": "46632",
-    "group": "Indian lifestyle",
-    "url": "https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Channel.m3u8"
-  },
-  {
-    "name": "Colors HD ",
-    "logo": "",
-    "channel_number": "46644",
-    "group": "Indian entertainment ",
-    "url": "http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test"
-  },
-  {
-    "name": "Zee Marathi HD",
-    "logo": "",
-    "channel_number": "55433",
-    "group": "Zee5",
-    "url": "http://appleiptv.com:80/luanne/luanne/42921"
-  },
-  {
-    "name": "Sony TV HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png",
-    "channel_number": "56334",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8"
-  },
-  {
-    "name": "Zee Bangla HD",
-    "logo": "",
-    "channel_number": "56433",
-    "group": "Zee5",
-    "url": "http://appleiptv.com:80/luanne/luanne/21006"
-  },
-  {
-    "name": "DD sports HD",
-    "logo": "",
-    "channel_number": "56522",
-    "group": "India",
-    "url": "http://txm1.flysat.live:2089/152099290352684/152082825718580/203422"
-  },
-  {
-    "name": "Animal planet HD",
-    "logo": "",
-    "channel_number": "56533",
-    "group": "Indian lifestyle",
-    "url": "https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Animal_Planet.m3u8"
-  },
-  {
-    "name": "Willow cricket xtra HD",
-    "logo": "",
-    "channel_number": "56655",
-    "group": "England sports",
-    "url": "http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377944.m3u8"
-  },
-  {
-    "name": "Sony sports ten 4 HD",
-    "logo": "",
-    "channel_number": "57000",
-    "group": "Sony LIV 4",
-    "url": "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8"
-  },
-  {
-    "name": "Discovery HD",
-    "logo": "",
-    "channel_number": "57622",
-    "group": "Indian lifestyle",
-    "url": "https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8"
-  },
-  {
-    "name": "Sony sports ten 3 SD",
-    "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
-    "channel_number": "58544",
-    "group": "Sony LIV 2",
-    "url": "https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8"
-  },
-  {
-    "name": "Star sports 2 HD",
-    "logo": "",
-    "channel_number": "63223",
-    "group": "Disney plus hotstar",
-    "url": "http://appleiptv.com:80/luanne/luanne/31160"
-  },
-  {
-    "name": "SPORTS 1 18 HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/200px-Sports18_official_logo.png",
-    "channel_number": "65211",
-    "group": "Women premier league",
-    "url": "http://tv.zaintv.net:80/HwUd9MCGd0/15jl5orowq/254510"
-  },
-  {
-    "name": "Star sports Hindi 1 HD",
-    "logo": "",
-    "channel_number": "66311",
-    "group": "IPL 2",
-    "url": "http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220"
-  },
-  {
-    "name": "Star sports select 2 HD",
-    "logo": "",
-    "channel_number": "66533",
-    "group": "Disney plus hotstar",
-    "url": "http://appleiptv.com:80/luanne/luanne/42949"
-  },
-  {
-    "name": "BTV Chattogram",
-    "logo": "",
-    "channel_number": "67422",
-    "group": "BD sports ",
-    "url": "http://starshare.live:8080/live/22113344/22113344/3818.m3u8"
-  },
-  {
-    "name": "Star sports 2 HD",
-    "logo": "",
-    "channel_number": "67423",
-    "group": "Disney plus hotstar",
-    "url": "http://appleiptv.com:80/luanne/luanne/31161"
-  },
-  {
-    "name": "Star sports Hindi 1 HD",
-    "logo": "",
-    "channel_number": "67432",
-    "group": "IPL",
-    "url": "http://txm1.flysat.live:2089/152099290352684/152082825718580/203431"
-  },
-  {
-    "name": "NZ: Sky Sport 3 CRICKET HD",
-    "logo": "",
-    "channel_number": "67532",
-    "group": "Indian premier league",
-    "url": "http://starshare.live:8080/live/22113344/22113344/23999.m3u8"
-  },
-  {
-    "name": "T sports BD HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
-    "channel_number": "67533",
-    "group": "BD sports ",
-    "url": "http://sonyiptv.net:8080/6103/6103/6291"
-  },
-  {
-    "name": "Sony yay HD",
-    "logo": "https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png",
-    "channel_number": "67555",
-    "group": "Sony LIV ",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8"
-  },
-  {
-    "name": "Willow cricket HD",
-    "logo": "",
-    "channel_number": "67654",
-    "group": "England sports",
-    "url": "http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377943"
-  },
-  {
-    "name": "PTV sports HD",
-    "logo": "",
-    "channel_number": "67743",
-    "group": "Pakistan cricket ",
-    "url": "http://appleiptv.com:80/luanne/luanne/29193"
-  },
-  {
-    "name": "STAR SPORTS TAMIL 1",
-    "logo": "",
-    "channel_number": "68311",
-    "group": "IPL 2",
-    "url": "http://txm1.flysat.live:2089/152099290352684/152082825718580/203421"
-  },
-  {
-    "name": "Sony sports ten 5 SD",
-    "logo": "",
-    "channel_number": "68633",
-    "group": "SONY SPORTS",
-    "url": "http://magicoiptv.org:8080/amina2023/trdamina/118650"
-  },
-  {
-    "name": "Sony WAH HD",
-    "logo": "",
-    "channel_number": "68733",
-    "group": "Sony LIV 4",
-    "url": "https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8"
-  },
-  {
-    "name": "Sun Bangla HD",
-    "logo": "",
-    "channel_number": "68753",
-    "group": "SUN NXT",
-    "url": "http://starshare.live:8080/live/22113344/22113344/3753.m3u8"
-  },
-  {
-    "name": "Colors Bangla HD",
-    "logo": "",
-    "channel_number": "72826",
-    "group": "Voot",
-    "url": "http://ys-users.com:8080/grwwest@outlook.com/G9H2bCq3NV/490964"
-  },
-  {
-    "name": "ITN",
-    "logo": "",
-    "channel_number": "74322",
-    "group": "Indian premier league",
-    "url": "http://starshare.live:8080/live/22113344/22113344/23976.m3u8"
-  },
-  {
-    "name": "Sony sports ten 3 HD",
-    "logo": "",
-    "channel_number": "75222",
-    "group": "SONY SPORTS",
-    "url": "http://appleiptv.com:80/luanne/luanne/31164"
-  },
-  {
-    "name": "Gazi TV HD",
-    "logo": "",
-    "channel_number": "77642",
-    "group": "BD sports ",
-    "url": "http://sonyiptv.net:8080/6103/6103/32125"
-  },
-  {
-    "name": "T sports BD HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
-    "channel_number": "77743",
-    "group": "BD sports ",
-    "url": "http://sonyiptv.net:8080/1156/1156/6291"
-  },
-  {
-    "name": "SPORTS 1 18 HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/200px-Sports18_official_logo.png",
-    "channel_number": "78533",
-    "group": "Women premier league",
-    "url": "http://tv.zaintv.net:80/HwUd9MCGd0/15jl5orowq/108276"
-  },
-  {
-    "name": "Sony aath HD",
-    "logo": "",
-    "channel_number": "78833",
-    "group": "Bangla entertainment ",
-    "url": "http://iptvtree.net:8080/live/Vladisergeevic/2f71144da3/17005.m3u8"
-  },
-  {
-    "name": "Jio Cricket 1 HD",
-    "logo": "",
-    "channel_number": "88644",
-    "group": "Jio TV",
-    "url": "http://sonyiptv.net:8080/6103/6103/6293"
-  },
-  {
-    "name": "Zee 24 ghanta",
-    "logo": "",
-    "channel_number": "456433",
-    "group": "Bengali news ",
-    "url": "https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8"
-  },
-  {
-    "name": "Sony sports ten 2 SD",
-    "logo": "",
-    "channel_number": "465344",
-    "group": "Sony LIV 2",
-    "url": "https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8"
-  },
-  {
-    "name": "Willow cricket HD",
-    "logo": "",
-    "channel_number": "466432",
-    "group": "England sports",
-    "url": "http://ys-users.com:8080/live/Srussell/Vqz2EfBh5r/377939"
-  },
-  {
-    "name": "Sony sports ten 1 SD",
-    "logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
-    "channel_number": "466433",
-    "group": "Sony LIV 2",
-    "url": "https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
-  },
-  {
-    "name": "Rongeen tv",
-    "logo": "",
-    "channel_number": "467334",
-    "group": "Bangla en
+    "name": "Sony Aath HD",
+    "url": "https://dai.google.com/ssai/event/ts7uOUVnTm6CmGblsk8JjA/master.m3u8"
+  }
+]
